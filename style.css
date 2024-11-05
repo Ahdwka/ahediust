@@ -1,9 +1,15 @@
+#hello{
+    padding-bottom: 0.3%;
+    zoom: 150%;
+}
+
+
 .header{
     font-family: "Alexandria", serif;
     font-optical-sizing: auto;
     font-weight: 450;
     font-style: normal;
-    padding: 15%;
+    padding: 7%;
     color: white;
 
 }
@@ -17,10 +23,27 @@
      
 }
 
+.link2{
+    font-family: "Alexandria", serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    padding: 2%;
+    color: white;
+    zoom: 80%;
+     
+}
+
 #aktob{
     font-size: large;
 }
 
 .space{
     size: 20%;
+}
+
+#also{
+    padding-top: 5%;
+    padding-bottom: 3%;
+    zoom: 170%;
 }
