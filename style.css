@@ -1,0 +1,26 @@
+.header{
+    font-family: "Alexandria", serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    padding: 15%;
+    color: white;
+
+}
+.link{
+    font-family: "Alexandria", serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    padding: 5%;
+    color: white;
+     
+}
+
+#aktob{
+    font-size: large;
+}
+
+.space{
+    size: 20%;
+}
