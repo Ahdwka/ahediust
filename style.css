@@ -1,49 +1,49 @@
-#hello{
-    padding-bottom: 0.3%;
-    zoom: 150%;
-}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ملفات المعلوماتية من عهد</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Alexandria:wght@100..900&family=IBM+Plex+Sans+Arabic:wght@100;200;300;400;500;600;700&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      body {
+        font-family: "Alexanria", sans-serif;
+        text-align: center;
+      }
+      a {
+        color: rgb(255, 149, 0);
+      }
+    </style>
+  </head>
+  <body bgcolor="444444">
+    <div class="header">
+      <h1 id="hello">مرحبا</h1>
+      <p style="line-height: 1.9">
+        هذا الرابط يحوي ملفات وسلايدات للمعلوماتية وملفات مشتركة مع الكليات
+        الأُخرى (المتطلبات فقط)
+      </p>
+    </div>
+    <div class="space"></div>
+    <div class="link">
+      <a
+        href="https://drive.google.com/drive/folders/1OuGjf65Ncxvau66yVT4q-oRrQwD2c0VN?usp=drive_link"
+        >إضغط هنا للذهاب للملفات</a
+      >
+      <p>@ahdwka</p>
+    </div>
 
-
-.header{
-    font-family: "Alexandria", serif;
-    font-optical-sizing: auto;
-    font-weight: 450;
-    font-style: normal;
-    padding: 7%;
-    color: white;
-
-}
-.link{
-    font-family: "Alexandria", serif;
-    font-optical-sizing: auto;
-    font-weight: 450;
-    font-style: normal;
-    padding: 5%;
-    color: white;
-     
-}
-
-.link2{
-    font-family: "Alexandria", serif;
-    font-optical-sizing: auto;
-    font-weight: 450;
-    font-style: normal;
-    padding: 2%;
-    color: white;
-    zoom: 80%;
-     
-}
-
-#aktob{
-    font-size: large;
-}
-
-.space{
-    size: 20%;
-}
-
-#also{
-    padding-top: 5%;
-    padding-bottom: 3%;
-    zoom: 170%;
-}
+    <div class="link2">
+      <h3 id="also"></h3>
+      <a href="https://t.me/IustUniversityBot_bot">رابط بوت تليجرام الجامعة الدولية</a>
+    </div>
+    <div class="link2">
+    <a href="https://t.me/XFXBOT">رابط بوت تليجرام لترجمة المستندات</a>
+    <div/>
+  </body>
+</html>
