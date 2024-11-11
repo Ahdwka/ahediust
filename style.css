@@ -1,5 +1,5 @@
 #hello{
-    padding-bottom: 0.3%;
+    padding-bottom: 0.3vh;
     zoom: 150%;
 }
 
@@ -9,8 +9,10 @@
     font-optical-sizing: auto;
     font-weight: 450;
     font-style: normal;
-    padding: 7%;
+    padding: 6vh;
+    padding-bottom: 0%;
     color: white;
+
 
 }
 .link{
@@ -18,7 +20,7 @@
     font-optical-sizing: auto;
     font-weight: 450;
     font-style: normal;
-    padding: 5%;
+    padding: 5vh;
     color: white;
      
 }
@@ -28,7 +30,7 @@
     font-optical-sizing: auto;
     font-weight: 450;
     font-style: normal;
-    padding: 2%;
+    padding: 2vh;
     color: white;
     zoom: 80%;
      
@@ -39,14 +41,12 @@
 }
 
 .space{
-    size: 20%;
+    height: 7vh;
 }
 
-#also{
-    padding-top: 5%;
-    padding-bottom: 3%;
-    zoom: 170%;
+.spacing2{
+    height: 5vh;
 }
-
-
-
+#press{
+    zoom: 1.2;
+}
