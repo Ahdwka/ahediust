@@ -1,3 +1,9 @@
+.imge{
+    padding-top: 2vh;
+    width: 20vw;
+}
+
+
 #hello{
     padding-bottom: 0.3vh;
     zoom: 150%;
@@ -11,8 +17,10 @@
     font-style: normal;
     padding: 6vh;
     padding-bottom: 0%;
-    color: white; 
-
+    padding-top: 0%;
+    color: white;
+    position: relative;
+    bottom: 3vh;
 
 }
 .link{
@@ -20,7 +28,7 @@
     font-optical-sizing: auto;
     font-weight: 450;
     font-style: normal;
-    padding: 5vh;
+    padding: 4vh;
     color: white;
      
 }
@@ -30,9 +38,9 @@
     font-optical-sizing: auto;
     font-weight: 450;
     font-style: normal;
-    padding: 2vh;
+    padding: 1.3vh;
     color: white;
-    zoom: 80%;
+    zoom: 88%;
      
 }
 
